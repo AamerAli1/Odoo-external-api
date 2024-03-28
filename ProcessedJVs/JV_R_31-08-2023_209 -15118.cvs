@@ -1,0 +1,9 @@
+TransCode	TransDate	Detail
+SALE	31/08/2023 	Receipt RCPT_15118
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1010		209 - JAO SALAMAH BR.	 75 	 0 	Receipt RCPT_15118	
+1110	1110 - ----- TRADE ACCOUNTS RECEIVABLE  -----	209 - JAO SALAMAH BR.	 200 	 0 	Receipt RCPT_15118	
+5011		209 - JAO SALAMAH BR.	 0 	 500 	Receipt RCPT_15118	
+5031		209 - JAO SALAMAH BR.	 225 	 0 	Receipt RCPT_15118	
+1310		209 - JAO SALAMAH BR.	 0 	 18.64 	Receipt RCPT_15118	
+5041		209 - JAO SALAMAH BR.	 18.64 	 0 	Receipt RCPT_15118	

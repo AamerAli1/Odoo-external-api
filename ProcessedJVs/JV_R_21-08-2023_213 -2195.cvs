@@ -1,0 +1,7 @@
+TransCode	TransDate	Detail
+SALE	21/08/2023 	Receipt RCPT_2195
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1010		213 - JAO AL-QUDS BR 	 180 	 0 	Receipt RCPT_2195	
+5011		213 - JAO AL-QUDS BR 	 0 	 180 	Receipt RCPT_2195	
+1310		213 - JAO AL-QUDS BR 	 0 	 210.46 	Receipt RCPT_2195	
+5041		213 - JAO AL-QUDS BR 	 210.46 	 0 	Receipt RCPT_2195	

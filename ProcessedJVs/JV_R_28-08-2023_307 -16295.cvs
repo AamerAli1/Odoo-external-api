@@ -1,0 +1,9 @@
+TransCode	TransDate	Detail
+SALE	28/08/2023 	Receipt RCPT_16295
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1010		307 - JAO JUBAIL BR.	 50 	 0 	Receipt RCPT_16295	
+1110	1110402 - MEDGULF INS. COMPANY	307 - JAO JUBAIL BR.	 200 	 0 	Receipt RCPT_16295	
+5011		307 - JAO JUBAIL BR.	 0 	 500 	Receipt RCPT_16295	
+5031		307 - JAO JUBAIL BR.	 250 	 0 	Receipt RCPT_16295	
+1310		307 - JAO JUBAIL BR.	 0 	 24.89 	Receipt RCPT_16295	
+5041		307 - JAO JUBAIL BR.	 24.89 	 0 	Receipt RCPT_16295	

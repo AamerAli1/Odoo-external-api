@@ -1,0 +1,7 @@
+TransCode	TransDate	Detail
+SALE	13/08/2023 	Receipt RCPT_5611
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1010		305 - JAO AWAMAYAH BR.	 400 	 0 	Receipt RCPT_5611	
+5011		305 - JAO AWAMAYAH BR.	 0 	 400 	Receipt RCPT_5611	
+1310		305 - JAO AWAMAYAH BR.	 0 	 73.75 	Receipt RCPT_5611	
+5041		305 - JAO AWAMAYAH BR.	 73.75 	 0 	Receipt RCPT_5611	

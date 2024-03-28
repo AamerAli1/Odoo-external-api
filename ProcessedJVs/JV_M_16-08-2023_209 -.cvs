@@ -1,0 +1,7 @@
+TransCode	TransDate	Detail
+ADJ	16/08/2023 	Transaction MEMO_5
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1310		209 - JAO SALAMAH BR.	 0 	 25.06 	Transaction MEMO_5	
+1310		209 - JAO SALAMAH BR.	 24.35 	 0 	Transaction MEMO_6	
+5460		209 - JAO SALAMAH BR.	 25.06 	 0 	Transaction MEMO_5	
+5460		209 - JAO SALAMAH BR.	 0 	 24.35 	Transaction MEMO_6	

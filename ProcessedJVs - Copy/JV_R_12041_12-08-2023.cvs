@@ -1,0 +1,7 @@
+TransCode	TransDate	Detail
+SALE	12/08/2023 	Receipt RCPT_15004
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1010		209 - JAO SALAMAH BR.	 300 	 0 	Receipt RCPT_15004	
+5011		209 - JAO SALAMAH BR.	 0 	 300 	Receipt RCPT_15004	
+1310		209 - JAO SALAMAH BR.	 0 	 53.45 	Receipt RCPT_15004	
+5041		209 - JAO SALAMAH BR.	 53.45 	 0 	Receipt RCPT_15004	

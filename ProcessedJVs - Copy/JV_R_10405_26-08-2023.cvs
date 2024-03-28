@@ -1,0 +1,10 @@
+TransCode	TransDate	Detail
+SALE	26/08/2023 	Receipt RCPT_2245
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1010		213 - JAO AL-QUDS BR 	 900 	 0 	Receipt RCPT_2245	
+1010		213 - JAO AL-QUDS BR 	 50 	 0 	Receipt RCPT_2245	
+1110	1110401 - BUPA ARABIA	213 - JAO AL-QUDS BR 	 489 	 0 	Receipt RCPT_2245	
+5011		213 - JAO AL-QUDS BR 	 0 	 1880 	Receipt RCPT_2245	
+5031		213 - JAO AL-QUDS BR 	 441 	 0 	Receipt RCPT_2245	
+1310		213 - JAO AL-QUDS BR 	 0 	 426.36 	Receipt RCPT_2245	
+5041		213 - JAO AL-QUDS BR 	 426.36 	 0 	Receipt RCPT_2245	

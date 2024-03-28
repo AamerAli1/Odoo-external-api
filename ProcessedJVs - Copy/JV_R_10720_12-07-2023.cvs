@@ -1,0 +1,9 @@
+TransCode	TransDate	Detail
+SALE	12/07/2023 	Receipt RCPT_14846
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1010		303 - JAO TAROUT BR.	 75 	 0 	Receipt RCPT_14846	
+1110	1110411 - Saudi United Cooperative Insurance CO (Walaa)	303 - JAO TAROUT BR.	 300 	 0 	Receipt RCPT_14846	
+5011		303 - JAO TAROUT BR.	 0 	 500 	Receipt RCPT_14846	
+5031		303 - JAO TAROUT BR.	 125 	 0 	Receipt RCPT_14846	
+1310		303 - JAO TAROUT BR.	 0 	 24.79 	Receipt RCPT_14846	
+5041		303 - JAO TAROUT BR.	 24.79 	 0 	Receipt RCPT_14846	

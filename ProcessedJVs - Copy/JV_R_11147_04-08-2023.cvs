@@ -1,0 +1,7 @@
+TransCode	TransDate	Detail
+SALE	04/08/2023 	Receipt RCPT_8782
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1010		210 - JAO HERA BR. JEDDAH 	 350 	 0 	Receipt RCPT_8782	
+5011		210 - JAO HERA BR. JEDDAH 	 0 	 350 	Receipt RCPT_8782	
+1310		210 - JAO HERA BR. JEDDAH 	 0 	 29.33 	Receipt RCPT_8782	
+5041		210 - JAO HERA BR. JEDDAH 	 29.33 	 0 	Receipt RCPT_8782	

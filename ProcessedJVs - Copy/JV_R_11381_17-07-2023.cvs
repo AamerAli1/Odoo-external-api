@@ -1,0 +1,9 @@
+TransCode	TransDate	Detail
+SALE	17/07/2023 	Receipt RCPT_14275
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1010		304 - JAO ALJISH BR	 50 	 0 	Receipt RCPT_14275	
+1110	1110402 - MEDGULF INS. COMPANY	304 - JAO ALJISH BR	 200 	 0 	Receipt RCPT_14275	
+5011		304 - JAO ALJISH BR	 0 	 500 	Receipt RCPT_14275	
+5031		304 - JAO ALJISH BR	 250 	 0 	Receipt RCPT_14275	
+1310		304 - JAO ALJISH BR	 0 	 33.06 	Receipt RCPT_14275	
+5041		304 - JAO ALJISH BR	 33.06 	 0 	Receipt RCPT_14275	

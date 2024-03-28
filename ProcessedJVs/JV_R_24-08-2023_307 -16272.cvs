@@ -1,0 +1,9 @@
+TransCode	TransDate	Detail
+SALE	24/08/2023 	Receipt RCPT_16272
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1010		307 - JAO JUBAIL BR.	 100 	 0 	Receipt RCPT_16272	
+1110	1110411 - Saudi United Cooperative Insurance CO (Walaa)	307 - JAO JUBAIL BR.	 600 	 0 	Receipt RCPT_16272	
+5011		307 - JAO JUBAIL BR.	 0 	 1000 	Receipt RCPT_16272	
+5031		307 - JAO JUBAIL BR.	 300 	 0 	Receipt RCPT_16272	
+1310		307 - JAO JUBAIL BR.	 0 	 156.75 	Receipt RCPT_16272	
+5041		307 - JAO JUBAIL BR.	 156.75 	 0 	Receipt RCPT_16272	

@@ -1,0 +1,8 @@
+TransCode	TransDate	Detail
+SALE	24/08/2023 	Receipt RCPT_2212
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1110	1110405 - TAWUNIYA INS. COMPANY	213 - JAO AL-QUDS BR 	 220 	 0 	Receipt RCPT_2212	
+5011		213 - JAO AL-QUDS BR 	 0 	 400 	Receipt RCPT_2212	
+5031		213 - JAO AL-QUDS BR 	 180 	 0 	Receipt RCPT_2212	
+1310		213 - JAO AL-QUDS BR 	 0 	 28.67 	Receipt RCPT_2212	
+5041		213 - JAO AL-QUDS BR 	 28.67 	 0 	Receipt RCPT_2212	

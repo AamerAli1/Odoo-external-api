@@ -1,0 +1,9 @@
+TransCode	TransDate	Detail
+SALE	05/07/2023 	Receipt RCPT_14814
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1010		303 - JAO TAROUT BR.	 50 	 0 	Receipt RCPT_14814	
+1110	1110406 - GULF UNION	303 - JAO TAROUT BR.	 510 	 0 	Receipt RCPT_14814	
+5011		303 - JAO TAROUT BR.	 0 	 800 	Receipt RCPT_14814	
+5031		303 - JAO TAROUT BR.	 240 	 0 	Receipt RCPT_14814	
+1310		303 - JAO TAROUT BR.	 0 	 123.85 	Receipt RCPT_14814	
+5041		303 - JAO TAROUT BR.	 123.85 	 0 	Receipt RCPT_14814	

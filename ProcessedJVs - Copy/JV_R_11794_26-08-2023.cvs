@@ -1,0 +1,8 @@
+TransCode	TransDate	Detail
+SALE	26/08/2023 	Receipt RCPT_4890
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1110	1110401 - BUPA ARABIA	212 - JAO THUWAL BR. 	 550 	 0 	Receipt RCPT_4890	
+5011		212 - JAO THUWAL BR. 	 0 	 1000 	Receipt RCPT_4890	
+5031		212 - JAO THUWAL BR. 	 450 	 0 	Receipt RCPT_4890	
+1310		212 - JAO THUWAL BR. 	 0 	 72.79 	Receipt RCPT_4890	
+5041		212 - JAO THUWAL BR. 	 72.79 	 0 	Receipt RCPT_4890	

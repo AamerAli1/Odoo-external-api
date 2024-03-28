@@ -1,0 +1,9 @@
+TransCode	TransDate	Detail
+SALE	30/08/2023 	Receipt RCPT_5698
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1010		305 - JAO AWAMAYAH BR.	 50 	 0 	Receipt RCPT_5698	
+1110	1110401 - BUPA ARABIA	305 - JAO AWAMAYAH BR.	 307.5 	 0 	Receipt RCPT_5698	
+5011		305 - JAO AWAMAYAH BR.	 0 	 650 	Receipt RCPT_5698	
+5031		305 - JAO AWAMAYAH BR.	 292.5 	 0 	Receipt RCPT_5698	
+1310		305 - JAO AWAMAYAH BR.	 0 	 27.5 	Receipt RCPT_5698	
+5041		305 - JAO AWAMAYAH BR.	 27.5 	 0 	Receipt RCPT_5698	

@@ -1,0 +1,8 @@
+TransCode	TransDate	Detail
+SALE	18/08/2023 	Receipt RCPT_2141
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1110	1110402 - MEDGULF INS. COMPANY	213 - JAO AL-QUDS BR 	 500 	 0 	Receipt RCPT_2141	
+5011		213 - JAO AL-QUDS BR 	 0 	 1000 	Receipt RCPT_2141	
+5031		213 - JAO AL-QUDS BR 	 500 	 0 	Receipt RCPT_2141	
+1310		213 - JAO AL-QUDS BR 	 0 	 167.98 	Receipt RCPT_2141	
+5041		213 - JAO AL-QUDS BR 	 167.98 	 0 	Receipt RCPT_2141	

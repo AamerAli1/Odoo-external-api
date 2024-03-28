@@ -1,0 +1,9 @@
+TransCode	TransDate	Detail
+SALE	15/08/2023 	Receipt RCPT_5624
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1010		305 - JAO AWAMAYAH BR.	 50 	 0 	Receipt RCPT_5624	
+1110	1110402 - MEDGULF INS. COMPANY	305 - JAO AWAMAYAH BR.	 200 	 0 	Receipt RCPT_5624	
+5011		305 - JAO AWAMAYAH BR.	 0 	 500 	Receipt RCPT_5624	
+5031		305 - JAO AWAMAYAH BR.	 250 	 0 	Receipt RCPT_5624	
+1310		305 - JAO AWAMAYAH BR.	 0 	 6.75 	Receipt RCPT_5624	
+5041		305 - JAO AWAMAYAH BR.	 6.75 	 0 	Receipt RCPT_5624	

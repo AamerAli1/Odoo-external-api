@@ -1,0 +1,9 @@
+TransCode	TransDate	Detail
+SALE	21/08/2023 	Receipt RCPT_16267
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1010		307 - JAO JUBAIL BR.	 100 	 0 	Receipt RCPT_16267	
+1110	1110413 - United Cooperative Assurance Company	307 - JAO JUBAIL BR.	 500 	 0 	Receipt RCPT_16267	
+5011		307 - JAO JUBAIL BR.	 0 	 1000 	Receipt RCPT_16267	
+5031		307 - JAO JUBAIL BR.	 400 	 0 	Receipt RCPT_16267	
+1310		307 - JAO JUBAIL BR.	 0 	 37.13 	Receipt RCPT_16267	
+5041		307 - JAO JUBAIL BR.	 37.13 	 0 	Receipt RCPT_16267	

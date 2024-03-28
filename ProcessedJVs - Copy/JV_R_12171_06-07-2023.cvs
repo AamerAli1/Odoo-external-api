@@ -1,0 +1,7 @@
+TransCode	TransDate	Detail
+SALE	06/07/2023 	Receipt RCPT_8456
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1010		306 - JAO SAFWA BR.	 130 	 0 	Receipt RCPT_8456	
+5011		306 - JAO SAFWA BR.	 0 	 130 	Receipt RCPT_8456	
+1310		306 - JAO SAFWA BR.	 0 	 52.21 	Receipt RCPT_8456	
+5041		306 - JAO SAFWA BR.	 52.21 	 0 	Receipt RCPT_8456	

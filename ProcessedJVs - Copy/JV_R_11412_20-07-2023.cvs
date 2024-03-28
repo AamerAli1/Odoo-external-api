@@ -1,0 +1,7 @@
+TransCode	TransDate	Detail
+SALE	20/07/2023 	Receipt RCPT_14304
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1010		304 - JAO ALJISH BR	 550 	 0 	Receipt RCPT_14304	
+5011		304 - JAO ALJISH BR	 0 	 550 	Receipt RCPT_14304	
+1310		304 - JAO ALJISH BR	 0 	 106.74 	Receipt RCPT_14304	
+5041		304 - JAO ALJISH BR	 106.74 	 0 	Receipt RCPT_14304	

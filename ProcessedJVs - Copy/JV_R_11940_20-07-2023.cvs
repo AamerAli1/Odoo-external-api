@@ -1,0 +1,8 @@
+TransCode	TransDate	Detail
+SALE	20/07/2023 	Receipt RCPT_14899
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1110	1110401 - BUPA ARABIA	209 - JAO SALAMAH BR.	 550 	 0 	Receipt RCPT_14899	
+5011		209 - JAO SALAMAH BR.	 0 	 1000 	Receipt RCPT_14899	
+5031		209 - JAO SALAMAH BR.	 450 	 0 	Receipt RCPT_14899	
+1310		209 - JAO SALAMAH BR.	 0 	 129.73 	Receipt RCPT_14899	
+5041		209 - JAO SALAMAH BR.	 129.73 	 0 	Receipt RCPT_14899	

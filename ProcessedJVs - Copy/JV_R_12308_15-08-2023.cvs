@@ -1,0 +1,8 @@
+TransCode	TransDate	Detail
+SALE	15/08/2023 	Receipt RCPT_8597
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1110	1110401 - BUPA ARABIA	306 - JAO SAFWA BR.	 550 	 0 	Receipt RCPT_8597	
+5011		306 - JAO SAFWA BR.	 0 	 1000 	Receipt RCPT_8597	
+5031		306 - JAO SAFWA BR.	 450 	 0 	Receipt RCPT_8597	
+1310		306 - JAO SAFWA BR.	 0 	 51.28 	Receipt RCPT_8597	
+5041		306 - JAO SAFWA BR.	 51.28 	 0 	Receipt RCPT_8597	

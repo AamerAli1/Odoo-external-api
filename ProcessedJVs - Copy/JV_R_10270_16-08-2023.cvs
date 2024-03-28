@@ -1,0 +1,10 @@
+TransCode	TransDate	Detail
+SALE	16/08/2023 	Receipt RCPT_2127
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1010		213 - JAO AL-QUDS BR 	 1175 	 0 	Receipt RCPT_2127	
+1010		213 - JAO AL-QUDS BR 	 75 	 0 	Receipt RCPT_2127	
+1110	1110410 - Allianz Saudi Fransi Cooperative Insurance Co	213 - JAO AL-QUDS BR 	 300 	 0 	Receipt RCPT_2127	
+5011		213 - JAO AL-QUDS BR 	 0 	 1675 	Receipt RCPT_2127	
+5031		213 - JAO AL-QUDS BR 	 125 	 0 	Receipt RCPT_2127	
+1310		213 - JAO AL-QUDS BR 	 0 	 287.14 	Receipt RCPT_2127	
+5041		213 - JAO AL-QUDS BR 	 287.14 	 0 	Receipt RCPT_2127	

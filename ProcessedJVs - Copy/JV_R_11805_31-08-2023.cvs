@@ -1,0 +1,7 @@
+TransCode	TransDate	Detail
+SALE	31/08/2023 	Receipt RCPT_4901
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1010		212 - JAO THUWAL BR. 	 100 	 0 	Receipt RCPT_4901	
+5011		212 - JAO THUWAL BR. 	 0 	 100 	Receipt RCPT_4901	
+1310		212 - JAO THUWAL BR. 	 0 	 8.35 	Receipt RCPT_4901	
+5041		212 - JAO THUWAL BR. 	 8.35 	 0 	Receipt RCPT_4901	

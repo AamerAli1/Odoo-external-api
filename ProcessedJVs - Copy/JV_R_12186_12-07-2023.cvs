@@ -1,0 +1,8 @@
+TransCode	TransDate	Detail
+SALE	12/07/2023 	Receipt RCPT_8475
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1110	1110402 - MEDGULF INS. COMPANY	306 - JAO SAFWA BR.	 500 	 0 	Receipt RCPT_8475	
+5011		306 - JAO SAFWA BR.	 0 	 1000 	Receipt RCPT_8475	
+5031		306 - JAO SAFWA BR.	 500 	 0 	Receipt RCPT_8475	
+1310		306 - JAO SAFWA BR.	 0 	 63.59 	Receipt RCPT_8475	
+5041		306 - JAO SAFWA BR.	 63.59 	 0 	Receipt RCPT_8475	

@@ -1,0 +1,10 @@
+TransCode	TransDate	Detail
+SALE	14/08/2023 	Receipt RCPT_8835
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1010		210 - JAO HERA BR. JEDDAH 	 65 	 0 	Receipt RCPT_8835	
+1010		210 - JAO HERA BR. JEDDAH 	 60 	 0 	Receipt RCPT_8835	
+1110	1110401 - BUPA ARABIA	210 - JAO HERA BR. JEDDAH 	 105 	 0 	Receipt RCPT_8835	
+5011		210 - JAO HERA BR. JEDDAH 	 0 	 365 	Receipt RCPT_8835	
+5031		210 - JAO HERA BR. JEDDAH 	 135 	 0 	Receipt RCPT_8835	
+1310		210 - JAO HERA BR. JEDDAH 	 0 	 17.3 	Receipt RCPT_8835	
+5041		210 - JAO HERA BR. JEDDAH 	 17.3 	 0 	Receipt RCPT_8835	

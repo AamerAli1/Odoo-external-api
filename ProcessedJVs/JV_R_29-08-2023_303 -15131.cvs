@@ -1,0 +1,10 @@
+TransCode	TransDate	Detail
+SALE	29/08/2023 	Receipt RCPT_15131
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1010		303 - JAO TAROUT BR.	 0 	 290 	Receipt RCPT_15131	
+1010		303 - JAO TAROUT BR.	 0 	 50 	Receipt RCPT_15131	
+1110	1110401 - BUPA ARABIA	303 - JAO TAROUT BR.	 0 	 550 	Receipt RCPT_15131	
+5011		303 - JAO TAROUT BR.	 1340 	 0 	Receipt RCPT_15131	
+5031		303 - JAO TAROUT BR.	 0 	 450 	Receipt RCPT_15131	
+1310		303 - JAO TAROUT BR.	 181.75 	 0 	Receipt RCPT_15131	
+5041		303 - JAO TAROUT BR.	 0 	 181.75 	Receipt RCPT_15131	

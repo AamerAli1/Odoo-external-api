@@ -1,0 +1,8 @@
+TransCode	TransDate	Detail
+SALE	23/08/2023 	Receipt RCPT_5671
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1110	1110410 - Allianz Saudi Fransi Cooperative Insurance Co	305 - JAO AWAMAYAH BR.	 375 	 0 	Receipt RCPT_5671	
+5011		305 - JAO AWAMAYAH BR.	 0 	 500 	Receipt RCPT_5671	
+5031		305 - JAO AWAMAYAH BR.	 125 	 0 	Receipt RCPT_5671	
+1310		305 - JAO AWAMAYAH BR.	 0 	 17.99 	Receipt RCPT_5671	
+5041		305 - JAO AWAMAYAH BR.	 17.99 	 0 	Receipt RCPT_5671	

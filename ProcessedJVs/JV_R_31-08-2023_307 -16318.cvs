@@ -1,0 +1,8 @@
+TransCode	TransDate	Detail
+SALE	31/08/2023 	Receipt RCPT_16318
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1110	1110409 - AL SAGR INSURANCE	307 - JAO JUBAIL BR.	 600 	 0 	Receipt RCPT_16318	
+5011		307 - JAO JUBAIL BR.	 0 	 1000 	Receipt RCPT_16318	
+5031		307 - JAO JUBAIL BR.	 400 	 0 	Receipt RCPT_16318	
+1310		307 - JAO JUBAIL BR.	 0 	 99.26 	Receipt RCPT_16318	
+5041		307 - JAO JUBAIL BR.	 99.26 	 0 	Receipt RCPT_16318	

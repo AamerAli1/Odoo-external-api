@@ -1,0 +1,10 @@
+TransCode	TransDate	Detail
+SALE	24/08/2023 	Receipt RCPT_4543
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1010		308 - JAO SAIHAT BR.	 350 	 0 	Receipt RCPT_4543	
+1010		308 - JAO SAIHAT BR.	 100 	 0 	Receipt RCPT_4543	
+1110	1110405 - TAWUNIYA INS. COMPANY	308 - JAO SAIHAT BR.	 340 	 0 	Receipt RCPT_4543	
+5011		308 - JAO SAIHAT BR.	 0 	 1150 	Receipt RCPT_4543	
+5031		308 - JAO SAIHAT BR.	 360 	 0 	Receipt RCPT_4543	
+1310		308 - JAO SAIHAT BR.	 0 	 172.47 	Receipt RCPT_4543	
+5041		308 - JAO SAIHAT BR.	 172.47 	 0 	Receipt RCPT_4543	

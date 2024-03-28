@@ -1,0 +1,5 @@
+TransCode	TransDate	Detail
+ADJ	24/08/2023 	Transaction MEMO_914
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1310		302 - JAO QATIF MAIN BR.	 0 	 1357.35 	Transaction MEMO_914	
+5460		302 - JAO QATIF MAIN BR.	 1357.35 	 0 	Transaction MEMO_914	

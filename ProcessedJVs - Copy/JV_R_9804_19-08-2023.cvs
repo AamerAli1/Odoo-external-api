@@ -1,0 +1,9 @@
+TransCode	TransDate	Detail
+SALE	19/08/2023 	Receipt RCPT_16260
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1010		307 - JAO JUBAIL BR.	 100 	 0 	Receipt RCPT_16260	
+1110	1110401 - BUPA ARABIA	307 - JAO JUBAIL BR.	 1000 	 0 	Receipt RCPT_16260	
+5011		307 - JAO JUBAIL BR.	 0 	 2000 	Receipt RCPT_16260	
+5031		307 - JAO JUBAIL BR.	 900 	 0 	Receipt RCPT_16260	
+1310		307 - JAO JUBAIL BR.	 0 	 165.65 	Receipt RCPT_16260	
+5041		307 - JAO JUBAIL BR.	 165.65 	 0 	Receipt RCPT_16260	

@@ -1,0 +1,9 @@
+TransCode	TransDate	Detail
+SALE	23/08/2023 	Receipt RCPT_14512
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1010		304 - JAO ALJISH BR	 75 	 0 	Receipt RCPT_14512	
+1110	1110401 - BUPA ARABIA	304 - JAO ALJISH BR	 145 	 0 	Receipt RCPT_14512	
+5011		304 - JAO ALJISH BR	 0 	 400 	Receipt RCPT_14512	
+5031		304 - JAO ALJISH BR	 180 	 0 	Receipt RCPT_14512	
+1310		304 - JAO ALJISH BR	 0 	 20.22 	Receipt RCPT_14512	
+5041		304 - JAO ALJISH BR	 20.22 	 0 	Receipt RCPT_14512	

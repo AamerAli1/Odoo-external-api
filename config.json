@@ -1,0 +1,13 @@
+{
+   "new_jvs_location":"C:\\Users\\Aamer\\OneDrive\\Documents\\Python\\Rayyes\\NewJVs",
+   "processed_jvs_location":"C:\\Users\\Aamer\\OneDrive\\Documents\\Python\\Rayyes\\ProcessedJVs",
+   "error_jvs_location":"C:\\Users\\Aamer\\OneDrive\\Documents\\Python\\Rayyes\\ErrorJVs",
+   "url":"http://192.248.180.95:8069",
+   "db": "Jamal",
+   "username":"aamer@expertsintech.com",
+   "password":"EiT123.",
+   "sal": 30,
+   "pur": 31,
+   "adj": 32,
+   "slip": 33
+}

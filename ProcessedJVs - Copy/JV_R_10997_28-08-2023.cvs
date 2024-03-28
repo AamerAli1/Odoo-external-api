@@ -1,0 +1,7 @@
+TransCode	TransDate	Detail
+SALE	28/08/2023 	Receipt RCPT_15122
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1010		303 - JAO TAROUT BR.	 330 	 0 	Receipt RCPT_15122	
+5011		303 - JAO TAROUT BR.	 0 	 330 	Receipt RCPT_15122	
+1310		303 - JAO TAROUT BR.	 0 	 30.11 	Receipt RCPT_15122	
+5041		303 - JAO TAROUT BR.	 30.11 	 0 	Receipt RCPT_15122	

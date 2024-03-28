@@ -1,0 +1,7 @@
+TransCode	TransDate	Detail
+SALE	01/08/2023 	Receipt RCPT_4524
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1010		308 - JAO SAIHAT BR.	 0 	 170 	Receipt RCPT_4524	
+5011		308 - JAO SAIHAT BR.	 170 	 0 	Receipt RCPT_4524	
+1310		308 - JAO SAIHAT BR.	 93.94 	 0 	Receipt RCPT_4524	
+5041		308 - JAO SAIHAT BR.	 0 	 93.94 	Receipt RCPT_4524	

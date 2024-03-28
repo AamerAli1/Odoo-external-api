@@ -1,0 +1,10 @@
+TransCode	TransDate	Detail
+SALE	11/08/2023 	Receipt RCPT_14985
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1010		303 - JAO TAROUT BR.	 100 	 0 	Receipt RCPT_14985	
+1010		303 - JAO TAROUT BR.	 50 	 0 	Receipt RCPT_14985	
+1110	1110402 - MEDGULF INS. COMPANY	303 - JAO TAROUT BR.	 200 	 0 	Receipt RCPT_14985	
+5011		303 - JAO TAROUT BR.	 0 	 600 	Receipt RCPT_14985	
+5031		303 - JAO TAROUT BR.	 250 	 0 	Receipt RCPT_14985	
+1310		303 - JAO TAROUT BR.	 0 	 71.55 	Receipt RCPT_14985	
+5041		303 - JAO TAROUT BR.	 71.55 	 0 	Receipt RCPT_14985	

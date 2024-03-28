@@ -1,0 +1,9 @@
+TransCode	TransDate	Detail
+SALE	26/08/2023 	Receipt RCPT_16285
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1010		307 - JAO JUBAIL BR.	 30 	 0 	Receipt RCPT_16285	
+1110	1110422 - ACIG	307 - JAO JUBAIL BR.	 420 	 0 	Receipt RCPT_16285	
+5011		307 - JAO JUBAIL BR.	 0 	 750 	Receipt RCPT_16285	
+5031		307 - JAO JUBAIL BR.	 300 	 0 	Receipt RCPT_16285	
+1310		307 - JAO JUBAIL BR.	 0 	 24.93 	Receipt RCPT_16285	
+5041		307 - JAO JUBAIL BR.	 24.93 	 0 	Receipt RCPT_16285	

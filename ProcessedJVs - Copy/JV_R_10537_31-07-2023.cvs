@@ -1,0 +1,10 @@
+TransCode	TransDate	Detail
+SALE	31/07/2023 	Receipt RCPT_5566
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1010		305 - JAO AWAMAYAH BR.	 175 	 0 	Receipt RCPT_5566	
+1010		305 - JAO AWAMAYAH BR.	 75 	 0 	Receipt RCPT_5566	
+1110	1110411 - Saudi United Cooperative Insurance CO (Walaa)	305 - JAO AWAMAYAH BR.	 300 	 0 	Receipt RCPT_5566	
+5011		305 - JAO AWAMAYAH BR.	 0 	 675 	Receipt RCPT_5566	
+5031		305 - JAO AWAMAYAH BR.	 125 	 0 	Receipt RCPT_5566	
+1310		305 - JAO AWAMAYAH BR.	 0 	 81.27 	Receipt RCPT_5566	
+5041		305 - JAO AWAMAYAH BR.	 81.27 	 0 	Receipt RCPT_5566	

@@ -1,0 +1,7 @@
+TransCode	TransDate	Detail
+SALE	31/08/2023 	Receipt RCPT_16311
+AccountCode	Partner	CostCenterCode	Debit	Credit	Details	Tax
+1010		307 - JAO JUBAIL BR.	 100 	 0 	Receipt RCPT_16311	
+5011		307 - JAO JUBAIL BR.	 0 	 100 	Receipt RCPT_16311	
+1310		307 - JAO JUBAIL BR.	 0 	 8.78 	Receipt RCPT_16311	
+5041		307 - JAO JUBAIL BR.	 8.78 	 0 	Receipt RCPT_16311	

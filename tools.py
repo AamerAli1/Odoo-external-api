@@ -17,6 +17,8 @@ sal_id = int(data['sal'])
 pur_id = int(data['pur'])
 adj_id = int(data['adj'])
 slip_id = int(data['slip'])
+sale_tax_id = int(data['sale_tax'])
+purchase_tax_id = int(data['purchase_tax'])
 
 
 
